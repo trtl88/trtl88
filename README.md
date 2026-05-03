@@ -95,6 +95,4 @@ Computer and Communication Engineering student passionate about building reliabl
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code."*
-
 </div>
