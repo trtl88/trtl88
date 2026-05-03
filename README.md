@@ -15,7 +15,6 @@ Computer and Communication Engineering student passionate about building reliabl
 
 - 🎓 Studying Computer and Communication Engineering
 - 🔧 Love building things from scratch and understanding how they work under the hood
-- 📍 Based in Alexandria, Egypt
 
 ---
 
