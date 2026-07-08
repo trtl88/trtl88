@@ -67,8 +67,8 @@ Computer and Communication Engineering student passionate about building reliabl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mgasserr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgasserr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mgasserr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mgasserr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 </div>
 
@@ -84,7 +84,7 @@ Computer and Communication Engineering student passionate about building reliabl
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mgasserr&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=mgasserr&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
