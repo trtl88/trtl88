@@ -43,16 +43,16 @@ Computer and Communication Engineering student passionate about building reliabl
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏦 [Bank Account Management](https://github.com/trtl88/bank-account-management) | Console-based banking system with full account management, transactions & history | `C` `File I/O` |
-| 👗 [Fashion Image Classifier](https://github.com/trtl88/fashion-image-classifier) | CNN-based clothing classifier trained on real-world fashion data | `Python` `TensorFlow` `Keras` |
-| 🖥️ [Mini Shell](https://github.com/trtl88/mini-shell) | Lightweight Unix shell with pipelines, I/O redirection & background processes | `C++` `Unix` |
-| ⚙️ [CPU Scheduler](https://github.com/trtl88/cpu-scheduler) | FCFS, RR, SPN, SRT, HRRN & Multilevel Feedback Queue implementations | `C++` |
-| 🔄 [Producer-Consumer IPC](https://github.com/trtl88/producer-consumer-ipc) | System V shared memory & semaphore-based IPC synchronization | `C++` `POSIX` |
-| 🧵 [Multithreaded Algorithms](https://github.com/trtl88/multithreaded-algorithms-c) | Parallel Merge Sort & Matrix Multiplication with pthreads | `C` `pthreads` |
-| 🌦️ [Distributed Weather System](https://github.com/trtl88/distributed-weather) | Kafka-based distributed weather station system with Docker & Kubernetes | `Java` `Kafka` `Docker` `K8s` |
-| 🐳 [Docker User Management](https://github.com/trtl88/docker-user-management) | Containerized three-tier user management app | `React` `Node.js` `MySQL` `Docker` |
-| 📚 [Online Bookstore](https://github.com/trtl88/online-bookstore) | Full-stack bookstore with REST API, admin dashboard & restock workflows | `Java` `Spring Boot` `MySQL` |
-| 🌐 [Connect Hub](https://github.com/trtl88/connect-hub) | Desktop social network app with feeds, groups & notifications | `Java` `Swing` `JSON` |
+| 🏦 [Bank Account Management](https://github.com/mgasserr/bank-management-system) | Console-based banking system with full account management, transactions & history | `C` `File I/O` |
+| 👗 [Fashion Image Classifier](https://github.com/mgasserr/fashion-image-classifier) | CNN-based clothing classifier trained on real-world fashion data | `Python` `TensorFlow` `Keras` |
+| 🖥️ [Mini Shell](https://github.com/mgasserr/mini-shell) | Lightweight Unix shell with pipelines, I/O redirection & background processes | `C++` `Unix` |
+| ⚙️ [CPU Scheduler](https://github.com/mgasserr/cpu-scheduler) | FCFS, RR, SPN, SRT, HRRN & Multilevel Feedback Queue implementations | `C++` |
+| 🔄 [Producer-Consumer IPC](https://github.com/mgasserr/producer-consumer-ipc) | System V shared memory & semaphore-based IPC synchronization | `C++` `POSIX` |
+| 🧵 [Multithreaded Algorithms](https://github.com/mgasserr/multithreaded-algorithms-c) | Parallel Merge Sort & Matrix Multiplication with pthreads | `C` `pthreads` |
+| 🌦️ [Distributed Weather System](https://github.com/mgasserr/distributed-weather) | Kafka-based distributed weather station system with Docker & Kubernetes | `Java` `Kafka` `Docker` `K8s` |
+| 🐳 [Docker User Management](https://github.com/mgasserr/docker-user-management) | Containerized three-tier user management app | `React` `Node.js` `MySQL` `Docker` |
+| 📚 [Online Bookstore](https://github.com/mgasserr/online-bookstore) | Full-stack bookstore with REST API, admin dashboard & restock workflows | `Java` `Spring Boot` `MySQL` |
+| 🌐 [Connect Hub](https://github.com/mgasserr/connect-hub) | Desktop social network app with feeds, groups & notifications | `Java` `Swing` `JSON` |
 
 ---
 
@@ -67,14 +67,14 @@ Computer and Communication Engineering student passionate about building reliabl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=trtl88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trtl88&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mgasserr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgasserr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=trtl88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mgasserr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -84,7 +84,7 @@ Computer and Communication Engineering student passionate about building reliabl
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=trtl88&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mgasserr&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
