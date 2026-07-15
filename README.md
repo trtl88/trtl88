@@ -58,8 +58,7 @@ Computer and Communication Engineering student passionate about building reliabl
 
 ## 📜 Certifications
 
-- 🏅 **CCNA Trainee** — Telecom Egypt *(IPv4/IPv6, VLANs, OSPF, EIGRP, Network Security)*
-- 🤖 **AI: Machine & Deep Learning** — Telecom Egypt *(CNNs, TensorFlow, Keras)*
+- 🤖 **AI: Machine & Deep Learning (Basic Level)** — Telecom Egypt *(CNNs, TensorFlow, Keras)*
 
 ---
 
